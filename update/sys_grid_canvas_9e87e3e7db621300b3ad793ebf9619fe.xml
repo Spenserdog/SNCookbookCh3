@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_grid_canvas" unload_date="2018-07-12 19:17:41">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="PA New Tab">d687e3e7db621300b3ad793ebf9619fe</legacy_page>
+        <name>PA New Tab</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-13 18:52:17</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>9e87e3e7db621300b3ad793ebf9619fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA New Tab</sys_name>
+        <sys_package display_value="SNow Cookbook Chapter 3" source="x_37930_snow_cookb">5a3f798adb6e1300b3ad793ebf9619c4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SNow Cookbook Chapter 3">5a3f798adb6e1300b3ad793ebf9619c4</sys_scope>
+        <sys_update_name>sys_grid_canvas_9e87e3e7db621300b3ad793ebf9619fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-13 18:52:17</sys_updated_on>
+        <related_items_node>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">9e87e3e7db621300b3ad793ebf9619fe</grid_canvas>
+                <height>11</height>
+                <portal_widget display_value="Created 2018-06-13 14:52:18">de87a72bdba21300b3ad793ebf961980</portal_widget>
+                <posx>6</posx>
+                <posy>39</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2018-06-13 18:52:18</sys_created_on>
+                <sys_customer_update>false</sys_customer_update>
+                <sys_id>1e87a72bdba21300b3ad793ebf961988</sys_id>
+                <sys_mod_count>4</sys_mod_count>
+                <sys_name>9e87e3e7db621300b3ad793ebf9619fe</sys_name>
+                <sys_package display_value="SNow Cookbook Chapter 3" source="x_37930_snow_cookb">5a3f798adb6e1300b3ad793ebf9619c4</sys_package>
+                <sys_policy/>
+                <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+                <sys_scope display_value="SNow Cookbook Chapter 3">5a3f798adb6e1300b3ad793ebf9619c4</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_1e87a72bdba21300b3ad793ebf961988</sys_update_name>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2018-06-13 18:55:03</sys_updated_on>
+                <width>6</width>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone>dropzone2</dropzone>
+                        <offset>1</offset>
+                        <page display_value="PA New Tab">d687e3e7db621300b3ad793ebf9619fe</page>
+                        <summary/>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-06-13 18:52:18</sys_created_on>
+                        <sys_id>de87a72bdba21300b3ad793ebf961980</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-06-13 18:52:18</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA New Tab">9e87e3e7db621300b3ad793ebf9619fe</grid_canvas>
+                                <height>11</height>
+                                <portal_widget display_value="Created 2018-06-13 14:52:18">de87a72bdba21300b3ad793ebf961980</portal_widget>
+                                <posx>6</posx>
+                                <posy>39</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2018-06-13 18:52:18</sys_created_on>
+                                <sys_customer_update>false</sys_customer_update>
+                                <sys_id>1e87a72bdba21300b3ad793ebf961988</sys_id>
+                                <sys_mod_count>4</sys_mod_count>
+                                <sys_name>9e87e3e7db621300b3ad793ebf9619fe</sys_name>
+                                <sys_package display_value="SNow Cookbook Chapter 3" source="x_37930_snow_cookb">5a3f798adb6e1300b3ad793ebf9619c4</sys_package>
+                                <sys_policy/>
+                                <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+                                <sys_scope display_value="SNow Cookbook Chapter 3">5a3f798adb6e1300b3ad793ebf9619c4</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_1e87a72bdba21300b3ad793ebf961988</sys_update_name>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2018-06-13 18:55:03</sys_updated_on>
+                                <width>6</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 2018-06-13 14:52:18">de87a72bdba21300b3ad793ebf961980</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2018-06-13 18:52:18</sys_created_on>
+                                <sys_id>1a87a72bdba21300b3ad793ebf961981</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2018-06-13 18:52:18</sys_updated_on>
+                                <value>0ce41a9dc6112276005f7f06e323bcd2</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 2018-06-13 14:52:18">de87a72bdba21300b3ad793ebf961980</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2018-06-13 18:52:18</sys_created_on>
+                                <sys_id>5687a72bdba21300b3ad793ebf961981</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2018-06-13 18:52:18</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderDashboard</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 2018-06-13 14:52:18">de87a72bdba21300b3ad793ebf961980</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2018-06-13 18:52:18</sys_created_on>
+                                <sys_id>9287a72bdba21300b3ad793ebf961981</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2018-06-13 18:52:18</sys_updated_on>
+                                <value>ITIL Summary Counts</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone/>
+                        <offset/>
+                        <page display_value="PA New Tab">d687e3e7db621300b3ad793ebf9619fe</page>
+                        <summary>World Clocks</summary>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-06-13 18:55:03</sys_created_on>
+                        <sys_id>3628636bdba21300b3ad793ebf961921</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-06-13 18:55:03</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA New Tab">9e87e3e7db621300b3ad793ebf9619fe</grid_canvas>
+                                <height>10</height>
+                                <portal_widget display_value="Created 2018-06-13 14:55:03">3628636bdba21300b3ad793ebf961921</portal_widget>
+                                <posx>0</posx>
+                                <posy>0</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2018-06-13 18:55:03</sys_created_on>
+                                <sys_customer_update>false</sys_customer_update>
+                                <sys_id>7a28636bdba21300b3ad793ebf961922</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_name>9e87e3e7db621300b3ad793ebf9619fe</sys_name>
+                                <sys_package display_value="SNow Cookbook Chapter 3" source="x_37930_snow_cookb">5a3f798adb6e1300b3ad793ebf9619c4</sys_package>
+                                <sys_policy/>
+                                <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+                                <sys_scope display_value="SNow Cookbook Chapter 3">5a3f798adb6e1300b3ad793ebf9619c4</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_7a28636bdba21300b3ad793ebf961922</sys_update_name>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2018-06-13 18:55:03</sys_updated_on>
+                                <width>12</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 2018-06-13 14:55:03">3628636bdba21300b3ad793ebf961921</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2018-06-13 18:55:03</sys_created_on>
+                                <sys_id>3a28636bdba21300b3ad793ebf961921</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2018-06-13 18:55:03</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderJavascript</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 2018-06-13 14:55:03">3628636bdba21300b3ad793ebf961921</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2018-06-13 18:55:03</sys_created_on>
+                                <sys_id>7228636bdba21300b3ad793ebf961922</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2018-06-13 18:55:03</sys_updated_on>
+                                <value>World Clocks</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>name</name>
+                                <portal_section display_value="Created 2018-06-13 14:55:03">3628636bdba21300b3ad793ebf961921</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2018-06-13 18:55:03</sys_created_on>
+                                <sys_id>be28636bdba21300b3ad793ebf961921</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2018-06-13 18:55:03</sys_updated_on>
+                                <value>example_cool_clock</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer_id</name>
+                                <portal_section display_value="Created 2018-06-13 14:55:03">3628636bdba21300b3ad793ebf961921</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2018-06-13 18:55:03</sys_created_on>
+                                <sys_id>fa28636bdba21300b3ad793ebf961921</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2018-06-13 18:55:03</sys_updated_on>
+                                <value>7c3525050a0a0ab8000968f6d8c87ea0</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone>dropzone1</dropzone>
+                        <offset>1</offset>
+                        <page display_value="PA New Tab">d687e3e7db621300b3ad793ebf9619fe</page>
+                        <summary/>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-06-13 18:52:17</sys_created_on>
+                        <sys_id>5a87a72bdba21300b3ad793ebf96197e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-06-13 18:52:17</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA New Tab">9e87e3e7db621300b3ad793ebf9619fe</grid_canvas>
+                                <height>26</height>
+                                <portal_widget display_value="Created 2018-06-13 14:52:17">5a87a72bdba21300b3ad793ebf96197e</portal_widget>
+                                <posx>0</posx>
+                                <posy>37</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2018-06-13 18:52:18</sys_created_on>
+                                <sys_customer_update>false</sys_customer_update>
+                                <sys_id>9287a72bdba21300b3ad793ebf961985</sys_id>
+                                <sys_mod_count>3</sys_mod_count>
+                                <sys_name>9e87e3e7db621300b3ad793ebf9619fe</sys_name>
+                                <sys_package display_value="SNow Cookbook Chapter 3" source="x_37930_snow_cookb">5a3f798adb6e1300b3ad793ebf9619c4</sys_package>
+                                <sys_policy/>
+                                <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+                                <sys_scope display_value="SNow Cookbook Chapter 3">5a3f798adb6e1300b3ad793ebf9619c4</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_9287a72bdba21300b3ad793ebf961985</sys_update_name>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2018-06-13 18:55:03</sys_updated_on>
+                                <width>6</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 2018-06-13 14:52:17">5a87a72bdba21300b3ad793ebf96197e</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2018-06-13 18:52:17</sys_created_on>
+                                <sys_id>1e87a72bdba21300b3ad793ebf96197e</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2018-06-13 18:52:17</sys_updated_on>
+                                <value>&amp;lt;a onmousedown='Event.stop(event); return false;' class='' href='task_list.do?sysparm_query=assigned_to%3Djavascript%3Ags.user_id%28%29%5EORassignment_group%3Djavascript%3AgetMyGroups%28%29%5Eactive%3Dtrue%5EEQ'&amp;gt;My Work&amp;lt;/a&amp;gt;</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 2018-06-13 14:52:17">5a87a72bdba21300b3ad793ebf96197e</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2018-06-13 18:52:17</sys_created_on>
+                                <sys_id>9287a72bdba21300b3ad793ebf96197f</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2018-06-13 18:52:17</sys_updated_on>
+                                <value>20a328e0c0a8000900101da96fab7aca</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 2018-06-13 14:52:17">5a87a72bdba21300b3ad793ebf96197e</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2018-06-13 18:52:17</sys_created_on>
+                                <sys_id>de87a72bdba21300b3ad793ebf96197e</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2018-06-13 18:52:17</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderDashboard</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone/>
+                        <offset/>
+                        <page display_value="PA New Tab">d687e3e7db621300b3ad793ebf9619fe</page>
+                        <summary>PRoblem CookBookChapter5</summary>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-06-13 18:53:11</sys_created_on>
+                        <sys_id>ebb72f27dba21300b3ad793ebf96199b</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-06-13 18:53:11</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA New Tab">9e87e3e7db621300b3ad793ebf9619fe</grid_canvas>
+                                <height>10</height>
+                                <portal_widget display_value="Created 2018-06-13 14:53:11">ebb72f27dba21300b3ad793ebf96199b</portal_widget>
+                                <posx>0</posx>
+                                <posy>10</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2018-06-13 18:53:11</sys_created_on>
+                                <sys_customer_update>false</sys_customer_update>
+                                <sys_id>afb72f27dba21300b3ad793ebf96199d</sys_id>
+                                <sys_mod_count>3</sys_mod_count>
+                                <sys_name>9e87e3e7db621300b3ad793ebf9619fe</sys_name>
+                                <sys_package display_value="SNow Cookbook Chapter 3" source="x_37930_snow_cookb">5a3f798adb6e1300b3ad793ebf9619c4</sys_package>
+                                <sys_policy/>
+                                <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+                                <sys_scope display_value="SNow Cookbook Chapter 3">5a3f798adb6e1300b3ad793ebf9619c4</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_afb72f27dba21300b3ad793ebf96199d</sys_update_name>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2018-06-13 18:55:04</sys_updated_on>
+                                <width>12</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 2018-06-13 14:53:11">ebb72f27dba21300b3ad793ebf96199b</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2018-06-13 18:53:11</sys_created_on>
+                                <sys_id>23b72f27dba21300b3ad793ebf96199d</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2018-06-13 18:53:11</sys_updated_on>
+                                <value>PRoblem CookBookChapter5</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 2018-06-13 14:53:11">ebb72f27dba21300b3ad793ebf96199b</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2018-06-13 18:53:11</sys_created_on>
+                                <sys_id>27b72f27dba21300b3ad793ebf96199c</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2018-06-13 18:53:11</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>report_type</name>
+                                <portal_section display_value="Created 2018-06-13 14:53:11">ebb72f27dba21300b3ad793ebf96199b</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2018-06-13 18:53:11</sys_created_on>
+                                <sys_id>6fb72f27dba21300b3ad793ebf96199c</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2018-06-13 18:53:11</sys_updated_on>
+                                <value>pie</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 2018-06-13 14:53:11">ebb72f27dba21300b3ad793ebf96199b</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2018-06-13 18:53:11</sys_created_on>
+                                <sys_id>abb72f27dba21300b3ad793ebf96199c</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2018-06-13 18:53:11</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>help_text_window</name>
+                                <portal_section display_value="Created 2018-06-13 14:53:11">ebb72f27dba21300b3ad793ebf96199b</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2018-06-13 18:53:11</sys_created_on>
+                                <sys_id>e7b72f27dba21300b3ad793ebf96199c</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2018-06-13 18:53:11</sys_updated_on>
+                                <value>report_widget_description</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 2018-06-13 14:53:11">ebb72f27dba21300b3ad793ebf96199b</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2018-06-13 18:53:11</sys_created_on>
+                                <sys_id>efb72f27dba21300b3ad793ebf96199b</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2018-06-13 18:53:11</sys_updated_on>
+                                <value>b0484b67db621300b3ad793ebf961952</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone>dropzone1</dropzone>
+                        <offset>0</offset>
+                        <page display_value="PA New Tab">d687e3e7db621300b3ad793ebf9619fe</page>
+                        <summary/>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-06-13 18:52:17</sys_created_on>
+                        <sys_id>9a87a72bdba21300b3ad793ebf96197c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-06-13 18:52:17</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA New Tab">9e87e3e7db621300b3ad793ebf9619fe</grid_canvas>
+                                <height>17</height>
+                                <portal_widget display_value="Created 2018-06-13 14:52:17">9a87a72bdba21300b3ad793ebf96197c</portal_widget>
+                                <posx>0</posx>
+                                <posy>20</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2018-06-13 18:52:18</sys_created_on>
+                                <sys_customer_update>false</sys_customer_update>
+                                <sys_id>da87a72bdba21300b3ad793ebf961982</sys_id>
+                                <sys_mod_count>3</sys_mod_count>
+                                <sys_name>9e87e3e7db621300b3ad793ebf9619fe</sys_name>
+                                <sys_package display_value="SNow Cookbook Chapter 3" source="x_37930_snow_cookb">5a3f798adb6e1300b3ad793ebf9619c4</sys_package>
+                                <sys_policy/>
+                                <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+                                <sys_scope display_value="SNow Cookbook Chapter 3">5a3f798adb6e1300b3ad793ebf9619c4</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_da87a72bdba21300b3ad793ebf961982</sys_update_name>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2018-06-13 18:55:04</sys_updated_on>
+                                <width>6</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 2018-06-13 14:52:17">9a87a72bdba21300b3ad793ebf96197c</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2018-06-13 18:52:17</sys_created_on>
+                                <sys_id>5a87a72bdba21300b3ad793ebf96197d</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2018-06-13 18:52:17</sys_updated_on>
+                                <value>e8c2c3cac0a8000500186af3308a1b18</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 2018-06-13 14:52:17">9a87a72bdba21300b3ad793ebf96197c</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2018-06-13 18:52:17</sys_created_on>
+                                <sys_id>5e87a72bdba21300b3ad793ebf96197c</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2018-06-13 18:52:17</sys_updated_on>
+                                <value>&amp;lt;a onmousedown='Event.stop(event); return false;' class='' href='task_list.do?sysparm_query=assignment_group%3Djavascript%3AgetMyGroups%28%29%5Eactive%3Dtrue%5Estate%21%3D-5%5EEQ'&amp;gt;My Groups Work&amp;lt;/a&amp;gt;</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 2018-06-13 14:52:17">9a87a72bdba21300b3ad793ebf96197c</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2018-06-13 18:52:17</sys_created_on>
+                                <sys_id>9687a72bdba21300b3ad793ebf96197d</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2018-06-13 18:52:17</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderDashboard</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone>dropzone2</dropzone>
+                        <offset>0</offset>
+                        <page display_value="PA New Tab">d687e3e7db621300b3ad793ebf9619fe</page>
+                        <summary/>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-06-13 18:52:17</sys_created_on>
+                        <sys_id>5a87a72bdba21300b3ad793ebf96197f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-06-13 18:52:17</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA New Tab">9e87e3e7db621300b3ad793ebf9619fe</grid_canvas>
+                                <height>19</height>
+                                <portal_widget display_value="Created 2018-06-13 14:52:17">5a87a72bdba21300b3ad793ebf96197f</portal_widget>
+                                <posx>6</posx>
+                                <posy>20</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2018-06-13 18:52:18</sys_created_on>
+                                <sys_customer_update>false</sys_customer_update>
+                                <sys_id>de87a72bdba21300b3ad793ebf961986</sys_id>
+                                <sys_mod_count>4</sys_mod_count>
+                                <sys_name>9e87e3e7db621300b3ad793ebf9619fe</sys_name>
+                                <sys_package display_value="SNow Cookbook Chapter 3" source="x_37930_snow_cookb">5a3f798adb6e1300b3ad793ebf9619c4</sys_package>
+                                <sys_policy/>
+                                <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+                                <sys_scope display_value="SNow Cookbook Chapter 3">5a3f798adb6e1300b3ad793ebf9619c4</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_de87a72bdba21300b3ad793ebf961986</sys_update_name>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2018-06-13 18:55:04</sys_updated_on>
+                                <width>6</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 2018-06-13 14:52:17">5a87a72bdba21300b3ad793ebf96197f</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2018-06-13 18:52:17</sys_created_on>
+                                <sys_id>1e87a72bdba21300b3ad793ebf96197f</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2018-06-13 18:52:17</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 2018-06-13 14:52:17">5a87a72bdba21300b3ad793ebf96197f</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2018-06-13 18:52:17</sys_created_on>
+                                <sys_id>9287a72bdba21300b3ad793ebf961980</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2018-06-13 18:52:27</sys_updated_on>
+                                <value>14fe248ac3030100517a3b251eba8f5f</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 2018-06-13 14:52:17">5a87a72bdba21300b3ad793ebf96197f</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2018-06-13 18:52:17</sys_created_on>
+                                <sys_id>9a87a72bdba21300b3ad793ebf961980</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2018-06-13 18:52:27</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 2018-06-13 14:52:17">5a87a72bdba21300b3ad793ebf96197f</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2018-06-13 18:52:17</sys_created_on>
+                                <sys_id>d687a72bdba21300b3ad793ebf961980</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2018-06-13 18:52:17</sys_updated_on>
+                                <value>Open Items by Escalation</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>current_page</name>
+                                <portal_section display_value="Created 2018-06-13 14:52:17">5a87a72bdba21300b3ad793ebf96197f</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2018-06-13 18:52:17</sys_created_on>
+                                <sys_id>de87a72bdba21300b3ad793ebf96197f</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2018-06-13 18:52:17</sys_updated_on>
+                                <value>8b8aa066c611228901698cbe24ffd91e</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">9e87e3e7db621300b3ad793ebf9619fe</grid_canvas>
+                <height>10</height>
+                <portal_widget display_value="Created 2018-06-13 14:55:03">3628636bdba21300b3ad793ebf961921</portal_widget>
+                <posx>0</posx>
+                <posy>0</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2018-06-13 18:55:03</sys_created_on>
+                <sys_customer_update>false</sys_customer_update>
+                <sys_id>7a28636bdba21300b3ad793ebf961922</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_name>9e87e3e7db621300b3ad793ebf9619fe</sys_name>
+                <sys_package display_value="SNow Cookbook Chapter 3" source="x_37930_snow_cookb">5a3f798adb6e1300b3ad793ebf9619c4</sys_package>
+                <sys_policy/>
+                <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+                <sys_scope display_value="SNow Cookbook Chapter 3">5a3f798adb6e1300b3ad793ebf9619c4</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_7a28636bdba21300b3ad793ebf961922</sys_update_name>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2018-06-13 18:55:03</sys_updated_on>
+                <width>12</width>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">9e87e3e7db621300b3ad793ebf9619fe</grid_canvas>
+                <height>26</height>
+                <portal_widget display_value="Created 2018-06-13 14:52:17">5a87a72bdba21300b3ad793ebf96197e</portal_widget>
+                <posx>0</posx>
+                <posy>37</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2018-06-13 18:52:18</sys_created_on>
+                <sys_customer_update>false</sys_customer_update>
+                <sys_id>9287a72bdba21300b3ad793ebf961985</sys_id>
+                <sys_mod_count>3</sys_mod_count>
+                <sys_name>9e87e3e7db621300b3ad793ebf9619fe</sys_name>
+                <sys_package display_value="SNow Cookbook Chapter 3" source="x_37930_snow_cookb">5a3f798adb6e1300b3ad793ebf9619c4</sys_package>
+                <sys_policy/>
+                <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+                <sys_scope display_value="SNow Cookbook Chapter 3">5a3f798adb6e1300b3ad793ebf9619c4</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_9287a72bdba21300b3ad793ebf961985</sys_update_name>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2018-06-13 18:55:03</sys_updated_on>
+                <width>6</width>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">9e87e3e7db621300b3ad793ebf9619fe</grid_canvas>
+                <height>10</height>
+                <portal_widget display_value="Created 2018-06-13 14:53:11">ebb72f27dba21300b3ad793ebf96199b</portal_widget>
+                <posx>0</posx>
+                <posy>10</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2018-06-13 18:53:11</sys_created_on>
+                <sys_customer_update>false</sys_customer_update>
+                <sys_id>afb72f27dba21300b3ad793ebf96199d</sys_id>
+                <sys_mod_count>3</sys_mod_count>
+                <sys_name>9e87e3e7db621300b3ad793ebf9619fe</sys_name>
+                <sys_package display_value="SNow Cookbook Chapter 3" source="x_37930_snow_cookb">5a3f798adb6e1300b3ad793ebf9619c4</sys_package>
+                <sys_policy/>
+                <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+                <sys_scope display_value="SNow Cookbook Chapter 3">5a3f798adb6e1300b3ad793ebf9619c4</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_afb72f27dba21300b3ad793ebf96199d</sys_update_name>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2018-06-13 18:55:04</sys_updated_on>
+                <width>12</width>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">9e87e3e7db621300b3ad793ebf9619fe</grid_canvas>
+                <height>17</height>
+                <portal_widget display_value="Created 2018-06-13 14:52:17">9a87a72bdba21300b3ad793ebf96197c</portal_widget>
+                <posx>0</posx>
+                <posy>20</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2018-06-13 18:52:18</sys_created_on>
+                <sys_customer_update>false</sys_customer_update>
+                <sys_id>da87a72bdba21300b3ad793ebf961982</sys_id>
+                <sys_mod_count>3</sys_mod_count>
+                <sys_name>9e87e3e7db621300b3ad793ebf9619fe</sys_name>
+                <sys_package display_value="SNow Cookbook Chapter 3" source="x_37930_snow_cookb">5a3f798adb6e1300b3ad793ebf9619c4</sys_package>
+                <sys_policy/>
+                <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+                <sys_scope display_value="SNow Cookbook Chapter 3">5a3f798adb6e1300b3ad793ebf9619c4</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_da87a72bdba21300b3ad793ebf961982</sys_update_name>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2018-06-13 18:55:04</sys_updated_on>
+                <width>6</width>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">9e87e3e7db621300b3ad793ebf9619fe</grid_canvas>
+                <height>19</height>
+                <portal_widget display_value="Created 2018-06-13 14:52:17">5a87a72bdba21300b3ad793ebf96197f</portal_widget>
+                <posx>6</posx>
+                <posy>20</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2018-06-13 18:52:18</sys_created_on>
+                <sys_customer_update>false</sys_customer_update>
+                <sys_id>de87a72bdba21300b3ad793ebf961986</sys_id>
+                <sys_mod_count>4</sys_mod_count>
+                <sys_name>9e87e3e7db621300b3ad793ebf9619fe</sys_name>
+                <sys_package display_value="SNow Cookbook Chapter 3" source="x_37930_snow_cookb">5a3f798adb6e1300b3ad793ebf9619c4</sys_package>
+                <sys_policy/>
+                <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+                <sys_scope display_value="SNow Cookbook Chapter 3">5a3f798adb6e1300b3ad793ebf9619c4</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_de87a72bdba21300b3ad793ebf961986</sys_update_name>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2018-06-13 18:55:04</sys_updated_on>
+                <width>6</width>
+            </sys_grid_canvas_pane>
+        </related_items_node>
+    </sys_grid_canvas>
+</record_update>
