@@ -3,7 +3,7 @@
     <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
         <dashboard display_value="Chapter 5 Dashboard (CookBook) ">5ec8a76bdba21300b3ad793ebf961983</dashboard>
         <home>false</home>
-        <homepage display_value="Chapter 5 Dashboard (CookBook) ">41bc07a7db621300b3ad793ebf961902</homepage>
+        <homepage display_value="">41bc07a7db621300b3ad793ebf961902</homepage>
         <order>1</order>
         <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
         <sys_created_by>admin</sys_created_by>
